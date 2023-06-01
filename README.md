@@ -6,8 +6,8 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/ruankie/ecrivai)](https://github.com/ruankie/ecrivai/commits/main)
 
 
-# 🦜🔗✏️EcrivAI
-EcrivAI is an automated blog writer that uses LangChain and GPT type LLMs for topic selection and content generation. The content is published to [this blog](https://ruankie.github.io/ecrivai-blog-hugo/)
+# Blog Writer with Langchain and Pinecone
+This AI app is an automated blog writer that uses LangChain and GPT type LLMs for topic selection and content generation. The content is published to [this blog](https://ruankie.github.io/ecrivai-blog-hugo/)
 
 ## Usage
 ### Prerequisites
